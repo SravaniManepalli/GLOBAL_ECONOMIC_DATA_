@@ -1,0 +1,1 @@
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.public_folders%2Fcost%2Bof%2Bliving%2Fcost_of_living%2Bexploration
